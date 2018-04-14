@@ -3,7 +3,8 @@
 ![menu](https://github.com/Sev7nzy/Lab/blob/master/Lab4/Menu/menu/QQ%E5%9B%BE%E7%89%8720180404131357.png)  
 ## 2.字体大小  
 ![ziti](https://github.com/Sev7nzy/Lab/blob/master/Lab4/Menu/menu/QQ%E5%9B%BE%E7%89%8720180404131624.png)  
-(1)小号字体
+
+(1)小号字体  
 ![small](https://github.com/Sev7nzy/Lab/blob/master/Lab4/Menu/menu/QQ%E5%9B%BE%E7%89%8720180404132020.png)  
 （2）中号字体  
 ![modest](https://github.com/Sev7nzy/Lab/blob/master/Lab4/Menu/menu/QQ%E5%9B%BE%E7%89%8720180404132043.png)  
