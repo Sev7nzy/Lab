@@ -3,12 +3,16 @@ package com.example.listmultichoise;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
+import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.SimpleAdapter;
 import android.widget.TextView;
+
 
 public class MyListAdapter extends BaseAdapter {
 	private Context mContext;
@@ -16,14 +20,11 @@ public class MyListAdapter extends BaseAdapter {
 
 	private String[] mStrings = { 
 			"One", "Two", "Three",
-			"Four", "Five", "Six",
-			"Seven", "Eight", "nine", "ten"
-			/*"Airedale", "Aisy Cendre",
-			"Allgauer Emmentaler", "Alverca", "Ambert", "American Cheese",
-			"Ami du Chambertin", "Anejo Enchilado",
-			"Anneau du Vic-Bilh", "Anthoriro"*/};
-	
-	
+			"Four", "Five", "Six"};
+
+	private  int[] imageIds=new int[]
+			{R.drawable.lion ,R.drawable.tiger , R.drawable.monkey, R.drawable.dog,R.drawable.cat,
+					R.drawable.elephant};
 	public MyListAdapter(Context context, ListView list) {
 		mContext = context;
 		mListView = list;
@@ -32,7 +33,6 @@ public class MyListAdapter extends BaseAdapter {
 	public int getCount() {
 		return mStrings.length;
 	}
-
 	@Override
 	public boolean areAllItemsEnabled() {
 		return false;
@@ -53,16 +53,15 @@ public class MyListAdapter extends BaseAdapter {
 
 	public View getView(int position, View convertView, ViewGroup parent) {
 		TextView tv;
-		if (convertView == null) {
-			tv = (TextView) LayoutInflater.from(mContext).inflate(
-					android.R.layout.simple_expandable_list_item_1, parent,
-					false);
-		} else {
-			tv = (TextView) convertView;
-		}
+		ImageView image;
+		View layout=View.inflate(mContext, R.layout.list_item, null);
+		image = (ImageView)layout.findViewById(R.id.image);
+		tv =(TextView)layout.findViewById(R.id.title);
 		tv.setText(mStrings[position]);
+        image.setImageResource(imageIds[position]);
 		updateBackground(position , tv);
-		return tv;
+		updateBackground(position, image);
+		return layout;
 	}
 
 	@SuppressLint("NewApi")

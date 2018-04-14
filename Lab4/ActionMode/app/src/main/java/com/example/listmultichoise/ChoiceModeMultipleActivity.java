@@ -53,7 +53,7 @@ public class ChoiceModeMultipleActivity extends Activity {
         }
         getActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM,  
                 ActionBar.DISPLAY_SHOW_CUSTOM | ActionBar.DISPLAY_SHOW_HOME |  
-                ActionBar.DISPLAY_SHOW_TITLE); 
+                ActionBar.DISPLAY_SHOW_TITLE);
         getActionBar().setCustomView(mMultiSelectActionBarView);
         ((TextView)mMultiSelectActionBarView.findViewById(R.id.title)).setText(R.string.select_item);
     }

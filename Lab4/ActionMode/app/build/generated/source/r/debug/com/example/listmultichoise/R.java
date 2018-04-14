@@ -24,12 +24,18 @@ public final class R {
     public static final int activity_vertical_margin=0x7f020001;
   }
   public static final class drawable {
-    public static final int class_zero_background=0x7f030000;
-    public static final int conversation_item_background_read=0x7f030001;
-    public static final int ic_launcher=0x7f030002;
-    public static final int list_selected_holo_light=0x7f030003;
-    public static final int text_color_black=0x7f030004;
-    public static final int text_color_red=0x7f030005;
+    public static final int cat=0x7f030000;
+    public static final int class_zero_background=0x7f030001;
+    public static final int conversation_item_background_read=0x7f030002;
+    public static final int dog=0x7f030003;
+    public static final int elephant=0x7f030004;
+    public static final int ic_launcher=0x7f030005;
+    public static final int lion=0x7f030006;
+    public static final int list_selected_holo_light=0x7f030007;
+    public static final int monkey=0x7f030008;
+    public static final int text_color_black=0x7f030009;
+    public static final int text_color_red=0x7f03000a;
+    public static final int tiger=0x7f03000b;
   }
   public static final class id {
     public static final int action_choice=0x7f040000;
@@ -37,9 +43,10 @@ public final class R {
     public static final int choice_mode_multiple=0x7f040002;
     public static final int choice_mode_multiple_modal=0x7f040003;
     public static final int custom_title_root=0x7f040004;
-    public static final int list=0x7f040005;
-    public static final int selected_conv_count=0x7f040006;
-    public static final int title=0x7f040007;
+    public static final int image=0x7f040005;
+    public static final int list=0x7f040006;
+    public static final int selected_conv_count=0x7f040007;
+    public static final int title=0x7f040008;
   }
   public static final class layout {
     public static final int activity_list=0x7f050000;
