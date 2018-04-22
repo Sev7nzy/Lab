@@ -20,6 +20,7 @@
 ### 4.2 Intent preference  
 #### 4.2.1 点击intent，弹出选择浏览器界面  
 ![intent](https://github.com/Sev7nzy/Lab/blob/master/Lab5/pictures/Screenshot_1524378035.png)  
+  
 #### 4.2.2 选定浏览器，进入指定网页  
 ![web](https://github.com/Sev7nzy/Lab/blob/master/Lab5/pictures/Screenshot_1524378022.png)  
 
