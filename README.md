@@ -5,3 +5,4 @@
 ## [Lab3 --layout布局](https://github.com/Sev7nzy/Lab/tree/master/Lab3)
 ## [Lab4 --UI组件](https://github.com/Sev7nzy/Lab/tree/master/Lab4)  
 ## [Lab5 --扩展的Activity](https://github.com/Sev7nzy/Lab/tree/master/Lab5)
+## [Lab6 --Intent](https://github.com/Sev7nzy/Lab/tree/master/Lab6)
