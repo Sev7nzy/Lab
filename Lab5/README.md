@@ -20,6 +20,7 @@
 ### 4.2 Intent preference  
 #### 4.2.1 点击intent，弹出选择浏览器界面  
 ![intent](https://github.com/Sev7nzy/Lab/blob/master/Lab5/pictures/Screenshot_1524378035.png)  
+  
 #### 4.2.2 选定浏览器，进入指定网页  
 ![web](https://github.com/Sev7nzy/Lab/blob/master/Lab5/pictures/Screenshot_1524378022.png)  
 
@@ -30,7 +31,7 @@
 ### 5.2 Parent ChickBox Preference(勾选)  
 #### 5.2.1 Child ChickBox Preference可以选择，显示黑色(child未勾选)  
 ![parent1](https://github.com/Sev7nzy/Lab/blob/master/Lab5/pictures/Screenshot_1524378165.png)  
-### 5.2.2 Child ChickBox Preference可以选择，显示黑色(child勾选)
+#### 5.2.2 Child ChickBox Preference可以选择，显示黑色(child勾选)
 ![child](https://github.com/Sev7nzy/Lab/blob/master/Lab5/pictures/Screenshot_1524378175.png)  
 
 
