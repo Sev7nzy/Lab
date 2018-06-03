@@ -17,12 +17,18 @@
 ### 2.1. 简单的UI优化  
 对首页背景颜色，功能选项菜单，Note显示效果，Note编辑界面进行了简单的统一的优化，使看上去更加简洁美观，效果如下：  
 
-![1](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603124903.png)  
-![2](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125248.png)  
+![1](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603124903.png)
+![2](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125455.png)  
 
 ## 2.2 背景颜色变更  
 添加了可以变更编辑界面背景颜色的功能，使用户可以选择自己喜欢的风格来编辑Note，效果截图：  
 
 ![yellow](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125308.png)
 ![gray](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125328.png)  
-![red](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125342.png)
+![red](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125342.png)  
+
+## 2.3 Note输出功能  
+添加了输出文件的功能，可以将Note文件提取出来，效果展示：  
+
+![export](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603102540.png)  
+
