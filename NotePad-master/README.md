@@ -31,4 +31,5 @@
 添加了输出文件的功能，可以将Note文件提取出来，效果展示：  
 
 ![export](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603102540.png)  
+![result](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/Screenshot_20180603-104536.png)
 
