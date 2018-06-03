@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\github\\demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\github\\demo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "575,633",
+                        "endColumns": "57,55",
+                        "endOffsets": "628,684"
+                    }
+                },
+                {
+                    "source": "E:\\github\\demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,6,4,3,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "250,201,109,56,156",
+                        "endColumns": "51,48,46,52,44",
+                        "endOffsets": "297,245,151,104,196"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "869,921,970,1017,1070",
+                        "endColumns": "51,48,46,52,44",
+                        "endOffsets": "916,965,1012,1065,1110"
+                    }
+                },
+                {
+                    "source": "E:\\github\\demo\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "21,28",
+                        "startColumns": "4,4",
+                        "startOffsets": "1115,1406",
+                        "endLines": "27,30",
+                        "endColumns": "12,12",
+                        "endOffsets": "1401,1561"
+                    }
+                },
+                {
+                    "source": "E:\\github\\demo\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "27,34,26,30,33,36,37,38,39,21,25,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1023,1293,973,1126,1242,1343,1407,1473,1538,768,914,857",
+                        "endColumns": "55,48,49,51,50,63,65,64,66,63,58,56",
+                        "endOffsets": "1074,1337,1018,1173,1288,1402,1468,1533,1600,827,968,909"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,160,210,262,313,377,443,508,689,753,812",
+                        "endColumns": "55,48,49,51,50,63,65,64,66,63,58,56",
+                        "endOffsets": "106,155,205,257,308,372,438,503,570,748,807,864"
+                    }
+                }
+            ]
+        }
+    ]
+}
