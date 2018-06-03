@@ -13,6 +13,8 @@
 ![search1](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603102505.png)
 ![search2](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603105055.png)
 
+
+
 ## 2.Notepad额外功能实现  
 ### 2.1. 简单的UI优化  
 对首页背景颜色，功能选项菜单，Note显示效果，Note编辑界面进行了简单的统一的优化，使看上去更加简洁美观，效果如下：  
