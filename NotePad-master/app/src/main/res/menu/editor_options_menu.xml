@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/save_as_schedule"
+        android:title="保存文件"
+        />
+    <item android:id="@+id/menu_delete"
+          android:icon="@drawable/ic_menu_delete"
+          android:title="@string/menu_delete"
+        />
+    <item android:id="@+id/menu_change_bg"
+        android:title="@string/menu_change_bg"
+        />
+</menu>
