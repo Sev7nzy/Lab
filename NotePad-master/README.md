@@ -21,7 +21,7 @@
 ![2](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125455.png)  
 
 ## 2.2 背景颜色变更  
-添加了可以变更编辑界面背景颜色的功能，使用户可以选择自己喜欢的风格来编辑Note，效果截图：  
+笔记背景颜色选择功能，使用自定义Dialog，在自定义Dialog中展示不同的颜色，并对展示的颜色进行设置ClickListener，当受到某种颜色点击响应后，背景颜色将会改变成所选择的笔记的颜色，背景颜色将会以SharesdPreferenced的方式进行保存。再次进入是会显示上次保存的背景色，使用户可以选择自己喜欢的风格来编辑Note。效果截图：      
 
 ![yellow](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125308.png)
 ![gray](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603125328.png)  
