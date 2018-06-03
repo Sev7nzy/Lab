@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cat.png.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\cat.png"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_conversation_item_background_read.xml.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable\\conversation_item_background_read.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\menu_multi_select_menu.xml.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\menu\\multi_select_menu.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dog.jpeg.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\dog.jpeg"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_selected_holo_light.9.png.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\list_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tiger.jpg.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\tiger.jpg"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_multi_select_actionbar.xml.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\layout\\list_multi_select_actionbar.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_monkey.jpeg.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\monkey.jpeg"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lion.jpeg.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\lion.jpeg"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_elephant.jpg.flat",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-hdpi\\elephant.jpg"
+    }
+]

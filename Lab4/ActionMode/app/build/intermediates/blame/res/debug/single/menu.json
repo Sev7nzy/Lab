@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\multi_select_menu.xml",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\menu\\multi_select_menu.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\build\\intermediates\\res\\merged\\debug\\menu\\multi_select_menu.xml",
+        "source": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\src\\main\\res\\menu\\multi_select_menu.xml"
+    }
+]

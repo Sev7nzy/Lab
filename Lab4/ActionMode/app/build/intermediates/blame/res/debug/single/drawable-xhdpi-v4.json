@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

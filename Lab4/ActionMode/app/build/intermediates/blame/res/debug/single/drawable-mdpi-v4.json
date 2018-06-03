@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Users\\zhoumao\\code\\ListMultiChoise\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\github\\demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\github\\demo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
