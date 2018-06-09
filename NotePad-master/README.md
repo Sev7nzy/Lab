@@ -2,7 +2,20 @@
 
 ## 1.Notepad基本要求实现  
 ### 1.1 获取Note创建时间，添加时间戳  
-获取Note创建时的系统时间（最终修改时间），并对时间的显示格式进行统一化要求，以列表的形式将Note的标题，图标和所获取的创建时间显示出来，效果如下图：  
+获取Note创建时的系统时间（最终修改时间），并对时间的显示格式进行统一化要求，以列表的形式将Note的标题，图标和所获取的创建时间显示出来，
+代码：  
+<br>
+```Java
+添加显示时间的TextView
+    <TextView
+        android:id="@+id/text1_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:paddingLeft="5dip"
+        android:textColor="@color/colorBlack"/>
+```  
+效果如下图：  
 
 ![main](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603102014.png)  
 
