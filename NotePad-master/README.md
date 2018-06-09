@@ -20,7 +20,18 @@
 ![main](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603102014.png)  
 
 ## 1.2 NotePad搜索功能实现  
-从数据库中获取搜索结果，实现Note的标题搜索功能，效果如下：  
+从数据库中获取搜索结果，实现Note的标题搜索功能，
+代码：  
+<br>
+```Java
+<item
+    android:id="@+id/menu_search"
+    android:title="@string/menu_search"
+    android:icon="@android:drawable/ic_search_category_default"
+    android:showAsAction="always">
+</item>
+```  
+效果如下：  
 
   
 ![search1](https://github.com/Sev7nzy/Lab/blob/master/NotePad-master/notepad/QQ%E5%9B%BE%E7%89%8720180603102505.png)
